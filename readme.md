@@ -1,10 +1,10 @@
 # Project- 07 HTML and CSS
 
-![Badge]()
+![Badge](https://img.shields.io/badge/Project--07-Headphone-green)
 
-# [Link of live Project]()
+# [Link of live Project](https://headphonesbit.netlify.app/)
 
-![LCO](./img/landing-page.png)
+![Images](./img/landing-page.png)
 
 # What I learnt here from this project
 
